@@ -1,1 +1,2 @@
 * reportajes publicados durante el máster
+Este repositorio contiene los enlaces de los artículos publicados durante la realización del máster en Periodismo de Datos realizado en el Centro Universitario Villanueva. 
